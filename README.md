@@ -1,2 +1,1 @@
-# indomontok
-indomontok
+# [indomontok](https://indomontok.pages.dev)
